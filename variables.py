@@ -83,4 +83,20 @@ total = ice_coffee + hot_chocolate + green_tea
 print('Your total cost is:' , total)
 print(f"Your total cost is: {total}")
 
+# Create a variable called age and store your current age
+# Add 10 to it and print:
+# "In 10 years, I will be ___ years old"
 
+age = 12
+age = 12 + 10 
+print('In 10 years i will be', age, 'years old')
+
+# Create a variable for the price of a movie ticket (e.g. 12)
+# Create a variable for how many tickets you want to buy (e.g. 3)
+# Calculate the total cost and print it
+
+movie_ticket = 15000
+number_of_movie_tickets = 1
+total_cost = movie_ticket * number_of_movie_tickets
+
+print(total_cost)
